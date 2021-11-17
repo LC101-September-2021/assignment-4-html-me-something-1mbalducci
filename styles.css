@@ -66,8 +66,7 @@ a{
     display: flex;
     justify-content: center;
     list-style: none;
-
-    a {
+  }
+  .navigation-unordered-list  {
       margin: 1% 10%;
     }
-}
