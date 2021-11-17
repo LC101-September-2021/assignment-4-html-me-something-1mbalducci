@@ -66,4 +66,8 @@ a{
     display: flex;
     justify-content: center;
     list-style: none;
+
+    a {
+      margin: 1% 10%;
+    }
 }
